@@ -58,6 +58,8 @@ OpenAI 对 3D Secure 失败的补充办法（来源 A 引官方）：允许弹�
 - [iOS 订阅排查](./subscribe-ios.md)
 - [网络环境要求](../guides/network-environment.md)
 
+按症状排查后仍无法付款、不想继续折腾？先读[第三方订阅风险与挑选标准](./third-party-subscription.md)，了解红线后再决定是否改用第三方服务。
+
 ---
 
 ## 来源与修改说明

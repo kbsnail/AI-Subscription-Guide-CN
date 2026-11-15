@@ -132,6 +132,8 @@ A：能。Claude 等有 iOS 端的产品都可以通过这个方法订阅（来�
 - [续费、取消与退款](./renewal-and-refund.md)
 - [Plus 和 Pro 怎么选](./plus-vs-pro.md)
 
+礼品卡、改区流程对你来说太繁琐？先读[第三方订阅风险与挑选标准](./third-party-subscription.md)，了解红线后再决定是否改用第三方服务。
+
 ---
 
 ## 来源与修改说明

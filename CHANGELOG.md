@@ -1,5 +1,10 @@
 # 更新记录（CHANGELOG）
 
+## 2026-11-15 · 决策点中立指引（方案 A）
+
+- 经项目负责人确认，在 5 个「放弃自助」决策点文章文末新增指向第三方风险专篇的中立指引（不含直接服务链接与 UTM）：no-foreign-card、payment-failed、subscription-not-active、subscribe-ios、virtual-card。
+- README 声明同步：其余教程正文不含商业推广，仅少数文末提供指向风险专篇的中立指引。
+
 ## 2026-11-15 · 首次公开发布
 
 - 经项目负责人确认（来源授权齐全、截图可发、邮箱已删），仓库首次推送至公开 GitHub：<https://github.com/kbsnail/AI-Subscription-Guide-CN>（main 分支，135 个文件）。

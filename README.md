@@ -122,7 +122,7 @@
 **声明**：
 
 - 「AI 订阅研习社」是**独立第三方服务**，与 OpenAI、Anthropic、Apple、Google 及任何模型厂商**无隶属、合作或官方授权关系**。本仓库不存在「官方充值」「官方授权渠道」性质的入口。
-- 商业服务入口仅出现在顶部「开通 AI 会员：两种方式」、本节、[ChatGPT 订阅方式总览](chatgpt/subscription-methods.md)的第三方说明与[第三方订阅风险](chatgpt/third-party-subscription.md)一文；其余教程正文不含商业推广。
+- 商业服务入口仅出现在顶部「开通 AI 会员：两种方式」、本节、[ChatGPT 订阅方式总览](chatgpt/subscription-methods.md)的第三方说明与[第三方订阅风险](chatgpt/third-party-subscription.md)一文；其余教程正文不含商业推广，仅少数教程文末提供指向第三方风险专篇的中立指引。
 - 第三方代充不改变 OpenAI / Anthropic 的地区规则；在不支持地区访问或提供服务可能导致账号受限，请自行评估风险。
 - **请勿在公开页面、群聊或客服聊天中提交账号密码、Session、Cookie、验证码、API Key 或付款凭据。**
 - 本仓库内容仅供信息参考，请遵守所在地法律法规与各平台服务条款；操作后果由使用者自行承担。

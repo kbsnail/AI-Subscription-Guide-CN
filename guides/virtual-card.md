@@ -110,6 +110,8 @@ VCC 是 Virtual Credit Card，虚拟信用卡。开卡后会得到卡号、有�
 - [付款失败排查](../chatgpt/payment-failed.md)
 - [没有海外卡的替代方案](../chatgpt/no-foreign-card.md)
 
+开卡门槛和风控让你不想继续？先读[第三方订阅风险与挑选标准](../chatgpt/third-party-subscription.md)，了解红线后再决定是否改用第三方服务。
+
 ---
 
 ## 来源与修改说明
