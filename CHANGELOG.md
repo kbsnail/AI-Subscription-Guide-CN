@@ -1,5 +1,9 @@
 # 更新记录（CHANGELOG）
 
+## 2026-11-15 · 首次公开发布
+
+- 经项目负责人确认（来源授权齐全、截图可发、邮箱已删），仓库首次推送至公开 GitHub：<https://github.com/kbsnail/AI-Subscription-Guide-CN>（main 分支，135 个文件）。
+
 ## 2026-11-15 · Claude 来源授权确认
 
 - pwna11/ClaudePro、ai-subscriber/claude-subscribe-guide 取得作者本人许可（经项目负责人确认）：SOURCES 状态由「待确认」更新为「已确认」，README 简介改为 12 个已获授权来源，claude 栏目 3 篇文章文末来源说明同步更新。
