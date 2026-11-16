@@ -80,7 +80,7 @@
 
 ### Claude（[栏目导航](claude/README.md)）
 
-- [官方订阅：价格、地区条件与步骤](claude/subscribe-official.md) — Pro / Max / Ultra、2026-10-31 更名说明
+- [官方订阅：价格、地区条件与步骤](claude/subscribe-official.md) — Pro / Max / Ultra、2026-10-30 官方公告更名说明
 - [订阅方式总览](claude/subscription-methods.md) — 官方 / 礼品卡 / 虚拟卡 / 第三方路线对比
 - [iOS 礼品卡内购](claude/subscribe-ios.md) — 美区 ID + 余额内购流程
 - [充值与使用常见问题](claude/payment-issues.md) — 失败处理、退款区分、续费提醒

@@ -2,7 +2,7 @@
 
 Claude Pro / Max / Ultra 的官方规则、路线对比、iOS 内购与充值问题处理。Apple ID、礼品卡、虚拟卡、网络环境等通用步骤复用 [公共教程 guides](../guides/README.md)。
 
-> 套餐名称提示：2026-10-31 起，Anthropic 将 Max 5x 更名为 **Max**（100 美元/月）、Max 20x 更名为 **Ultra**（200 美元/月）。旧教程中的「Max 5x / Max 20x」即对应这两档。
+> 套餐名称提示：Anthropic 于 2026-10-30（美国时间，北京时间 10-31；[@claudeai 官方公告](https://x.com/claudeai/status/2116220869479428500)）将 Max 5x 更名为 **Max**（100 美元/月）、Max 20x 更名为 **Ultra**（200 美元/月）。旧教程中的「Max 5x / Max 20x」即对应这两档。
 
 ## 教程目录
 

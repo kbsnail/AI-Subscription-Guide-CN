@@ -1,5 +1,32 @@
 # 更新记录（CHANGELOG）
 
+## 2026-11-16 · V3.0 定向内容优化（本地，未提交、未推送，待项目负责人验收）
+
+仅处理任务书指定的三个问题（03 / 04 / 08），最小必要修改，保留原有结构、教程步骤、实测记录、截图与来源署名。
+
+### 03 · Google Play 改区规则一致性
+
+- `chatgpt/subscribe-android.md`：改区规则统一为 Google 官方口径——首次设置后至少 90 天才能更改、每次更改也需至少间隔 90 天，附官方帮助页链接（2026-11-16 核对）；补充 48 小时生效、余额随地区锁定、家人群组限制。
+- `chatgpt/subscribe-huawei.md`：删除 FAQ 中「一年只能改一次」的错误表述，改为官方 90 天规则；文首新增历史实测适用范围提示（特定设备 / 系统 / 地区 / 银行卡条件；Play 地区由付款资料决定而非仅由节点 IP 决定；银联支持以地区付款页实际显示为准）。13 张截图与全部步骤未改动。
+
+### 04 · 第三方代充表述去保证化
+
+- `chatgpt/third-party-subscription.md`：文首新增利益披露（本站维护方同时提供独立第三方服务，非官方授权代理）；交付类型表扩充为自助代充 / 协助付款（需 Session 等凭据）/ 人工协助 / 兑换码 / 成品号 / 共享号；删除「靠谱平台几分钟到账」等无依据保证，交付时间与售后统一为「以购买时的商品说明、订单状态及商家披露条款为准」；来源 A 的 30 天质保保留为历史个案记录。商业服务入口按任务书保留。
+- `chatgpt/subscription-methods.md`：成本对比表重建为客观维度（适用条件 / 操作难度 / 费用构成 / 交付方式 / 风险限制 / 教程），删除全部无依据的「隐私 / 稳定性 / 综合」评级；历史实测价格保留并标注日期。
+- 同步修正：`chatgpt/no-foreign-card.md`、`chatgpt/subscription-not-active.md`、`chatgpt/faq.md`、`claude/payment-issues.md`、`guides/account-security.md`（掉订阅补偿表述与站内锚点一致）。
+
+### 08 · 套餐价格、模型权益与额度信息
+
+- `chatgpt/plus-vs-pro.md`：价格与档位结构对照官方 Codex 定价页核实（Free $0 / Go $8 / Plus $20 / Pro $100·$200·$500）；「约 10 / 20 / 50 倍」明确标注为 Codex 负责人 Tibo 的 X 说明而非官方定价页承诺；帮助中心链接更正为官方文档现行 slug。
+- `claude/subscribe-official.md`：更名日期更正为官方公告日 2026-10-30（美国时间，北京时间 10-31，附 @claudeai 公告链接）；补充 Max 5 倍 / Ultra 每周 10 倍官方用量口径、Ultra 无 5 小时限制仅限已验证账户、Max $100 / Ultra $200 月度 API 额度（含领取条件、适用范围与不结转规则，按官方帮助中心 17154008 核对）、仅月付、官方退款 FAQ。同步 `claude/README.md`、`claude/subscription-methods.md`（Pro 年付价格）、根 README 一行、`chatgpt/faq.md` 更名日期。
+- `codex/model-selection.md`：文首区分官方当前推荐名单（GPT-6 Astra / GPT-6.1 Sol / GPT-6.1 Terra / GPT-6 Luna，2026-11-16 按官方模型文档核对）与原作者历史三档推荐；IQ 评分补充「第三方测试，不代表 OpenAI 官方性能评级」声明；「不推荐 GPT-6 Luna」标注为原作者个人结论并附官方定位对照；退役模型保留为历史。
+- `codex/usage-and-limits.md`：文首新增历史样本声明（2026 年 3–8 月统计、140 元实付与 150 美元估算两个假设，非官方当前额度、非现金价值）与当前官方额度口径（Plus 每 5 小时估算区间、Pro 无五小时限制、用量面板入口）；「20x Pro」标注为旧称（现 Pro 200），理论倍数标注为 Tibo 说明。3–7 月 45 倍统计、公式、数据表与使用记录全部保留未改动。
+- Codex 降智专题（`codex/troubleshooting.md`）的实验方法与机制解释按任务书未改动。
+
+### 检查
+
+- 自动检查：断链 0、失效锚点 0、缺失图片 0、重复 H1 0、敏感信息 0；UTM / 服务锚点 / 目录锚点 / H1 约定全部通过。forbidden 命中 45 处均为「来源与修改说明」中描述已删除推广的元信息（较上次 +1 为新增修改说明文字），internal_paths 7 处为 CHANGELOG / SOURCES 对工作区目录的说明，均属已知豁免。
+
 ## 2026-11-15 · 决策点中立指引（方案 A）
 
 - 经项目负责人确认，在 5 个「放弃自助」决策点文章文末新增指向第三方风险专篇的中立指引（不含直接服务链接与 UTM）：no-foreign-card、payment-failed、subscription-not-active、subscribe-ios、virtual-card。

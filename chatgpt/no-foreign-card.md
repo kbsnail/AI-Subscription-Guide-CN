@@ -20,7 +20,7 @@
 | 有 iPhone / iPad | [美区 Apple ID + 礼品卡 + iOS 内购](./subscribe-ios.md) | 付款由 Apple 处理，不走 OpenAI 网页 Stripe；原作者实测 $20 礼品卡约 ¥134–138 |
 | 有 Android + Google Play | [Google Play 内购](./subscribe-android.md) | 需要 Play 地区支持的付款方式 |
 | 华为手机，能折腾新加坡节点 | [Google Play 新加坡区 + 国内银联卡](./subscribe-huawei.md) | 原作者 2026-08 实测，银联储蓄卡直接付，自动换汇 |
-| 什么设备都不想折腾 | [第三方代充（先读风险）](./third-party-subscription.md) | 人民币付款几分钟到账，但必须会挑平台 |
+| 什么设备都不想折腾 | [第三方代充（先读风险）](./third-party-subscription.md) | 人民币付款、由商家操作；交付与售后以商家条款为准，必须先会挑平台 |
 | 愿意研究 USDT 和虚拟卡 | [虚拟卡路线](../guides/virtual-card.md) | 2026 年主流平台已停运，门槛高，普通人不推荐 |
 
 ## 30 秒结论（来源 A 的选择表）
