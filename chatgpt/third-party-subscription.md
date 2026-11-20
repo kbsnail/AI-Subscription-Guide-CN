@@ -86,7 +86,7 @@
 
 ## 关于「AI 订阅研习社」的服务
 
-「AI 订阅研习社」（<https://www.woyaoai.online>）也提供充值到本人 ChatGPT 账号的独立第三方会员服务，入口与说明见 [仓库首页「服务与声明」](../README.md#服务与声明)。
+「AI 订阅研习社」（<https://www.woyaoai.online/?utm_source=github&utm_medium=third_party_guide&utm_campaign=ai_subscription_guide>）也提供充值到本人 ChatGPT 账号的独立第三方会员服务，入口与说明见 [仓库首页「服务与声明」](../README.md#服务与声明)。
 
 **独立第三方声明：** 我们是独立第三方服务，与 OpenAI、Apple、Google 及其他平台均无隶属或官方授权关系；「官方渠道」仅指订阅最终通过官方支付体系生效，不代表我们获得官方授权。第三方付款不改变 OpenAI 的地区规则，任何第三方都不能保证账号绝对不被限制。请遵守所在地规定和各平台规则，只使用自己有权使用的账号与付款方式。
 
